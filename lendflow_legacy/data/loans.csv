@@ -1,0 +1,6 @@
+loan_id,customer,product,principal,rate,amort_years,term_years
+L-1001,Chen Wei,Fixed Mortgage,400000,5.50%,25,5
+L-1002,Amara Osei,Fixed Mortgage,615000,4.89%,30,5
+L-1003,Luca Moretti,Auto Loan,32000,7.25%,6,6
+L-1004,Priya Sharma,Personal Loan,15000,9.99%,4,4
+L-1005,Jean Tremblay,Fixed Mortgage,285000,5.14%,25,3
